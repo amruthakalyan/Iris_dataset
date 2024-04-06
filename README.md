@@ -6,5 +6,5 @@
 -> 3 classes: Setosa, Versicolor, Virginica.
 
 📈 Results:
--> 🎯 Achieved an impressive accuracy of [insert accuracy here] on the test set!
+-> 🎯 Achieved an impressive accuracy of 94.689% on the test set!
 -> 💥 Demonstrating the power and versatility of machine learning in tackling real-world classification problems, even with limited data.
